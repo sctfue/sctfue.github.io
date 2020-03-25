@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sctfue.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-25T09:47:16.604Z</updated>
+    <title>sctfue</title>
+    <updated>2020-03-25T09:52:01.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sctfue.github.io"/>
     <link rel="self" href="https://sctfue.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>github网站</subtitle>
     <logo>https://sctfue.github.io/images/avatar.png</logo>
     <icon>https://sctfue.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, sctfue</rights>
+    <entry>
+        <title type="html"><![CDATA[title]]></title>
+        <id>https://sctfue.github.io/post/title/</id>
+        <link href="https://sctfue.github.io/post/title/">
+        </link>
+        <updated>2020-03-25T09:50:46.000Z</updated>
+        <content type="html"><![CDATA[<p>content</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://sctfue.github.io/post/hello-gridea/</id>
